@@ -1,4 +1,4 @@
-cloud-to-butt
+matt-to-dude
 =============
 
 Chrome extension that replaces occurrences of 'Matt' with 'Dude'
